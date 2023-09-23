@@ -1,0 +1,17 @@
+MOnday August 28th 2017
+Getting Focused
+The four stages of expetise: Ingnorance, Awareness, Ability, Expertise
+/*......
+CSS:
+Selector, declaration, property, value
+
+Style Rules:
+CSS type selectors match elemnts by Node name.
+e.g. element { style properties }
+
+CSS class selectors based on the contents of the elemnt's class attribute
+e.g. .classname { style properties }
+
+CSS ID selectors match an element based on the contents of that element's attribute
+
+Universal selectors (*) matches a single element of any type. Omitting the asterisk with simple selectors has the same effect. For instance, *.warning and .warning are considered equal.
