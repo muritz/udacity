@@ -1,0 +1,100 @@
+1
+00:00:00,000 --> 00:00:03,435
+If this is your first Nanodegree program, you start here.
+
+2
+00:00:03,435 --> 00:00:06,450
+If you've taken a Nanodegree program with us before,
+
+3
+00:00:06,450 --> 00:00:08,775
+you already know a little bit of what to expect.
+
+4
+00:00:08,775 --> 00:00:12,435
+Udacity is always improving our learning experience for students.
+
+5
+00:00:12,435 --> 00:00:16,289
+So you can watch this to see what has changed or you can skip ahead.
+
+6
+00:00:16,289 --> 00:00:19,994
+You can also download the transcript of this video in the resources tab.
+
+7
+00:00:19,995 --> 00:00:22,380
+Let's get started. We truly believe that
+
+8
+00:00:22,379 --> 00:00:24,750
+you couldn't have chosen a better place to learn.
+
+9
+00:00:24,750 --> 00:00:27,030
+A lot of people have worked tirelessly to create
+
+10
+00:00:27,030 --> 00:00:29,240
+the course material and platform features,
+
+11
+00:00:29,239 --> 00:00:31,875
+as we all want you to get the most of your learning journey.
+
+12
+00:00:31,875 --> 00:00:34,679
+Our pledge is to provide you with resources and
+
+13
+00:00:34,679 --> 00:00:38,564
+services that will further enable you to succeed in your Nanodegree program.
+
+14
+00:00:38,564 --> 00:00:40,119
+As you go through the lessons,
+
+15
+00:00:40,119 --> 00:00:43,089
+you may find some to be difficult and may feel discouraged.
+
+16
+00:00:43,090 --> 00:00:46,010
+If this happens, we encourage you to take advantage of
+
+17
+00:00:46,009 --> 00:00:49,714
+your community channels and mentor services to help clarify the concepts,
+
+18
+00:00:49,715 --> 00:00:51,065
+or just to share your doubts.
+
+19
+00:00:51,064 --> 00:00:53,149
+Our mentors are there to help you.
+
+20
+00:00:53,149 --> 00:00:55,399
+You will get advice and guidance to ensure
+
+21
+00:00:55,399 --> 00:00:57,739
+that you are on track to complete the projects.
+
+22
+00:00:57,740 --> 00:01:01,700
+We want you to succeed and graduate with the Udacity Nanodegree certificate.
+
+23
+00:01:01,700 --> 00:01:05,585
+We value the trust you have put in us by making this investment in your future career.
+
+24
+00:01:05,584 --> 00:01:08,089
+We take it very seriously and we're here to help
+
+25
+00:01:08,090 --> 00:01:11,460
+you achieve whatever you came here to accomplish.
+
